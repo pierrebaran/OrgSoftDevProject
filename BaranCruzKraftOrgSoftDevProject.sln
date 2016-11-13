@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{DE3F6E69-B6DB-4489-8806-932612B2768F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdgeAplication", "EdgeAplication\EdgeAplication.csproj", "{F4513897-A8A5-4744-9E99-B542C6103BAB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DE3F6E69-B6DB-4489-8806-932612B2768F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE3F6E69-B6DB-4489-8806-932612B2768F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE3F6E69-B6DB-4489-8806-932612B2768F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4513897-A8A5-4744-9E99-B542C6103BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4513897-A8A5-4744-9E99-B542C6103BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4513897-A8A5-4744-9E99-B542C6103BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4513897-A8A5-4744-9E99-B542C6103BAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,7 @@
+C:\Users\TrahTour\Desktop\VIsual Studio Workspace TOUR\OrgSoftDevProject\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\TrahTour\Desktop\VIsual Studio Workspace TOUR\OrgSoftDevProject\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\TrahTour\Desktop\VIsual Studio Workspace TOUR\OrgSoftDevProject\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\TrahTour\Desktop\VIsual Studio Workspace TOUR\OrgSoftDevProject\UnitTests\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\TrahTour\Desktop\VIsual Studio Workspace TOUR\OrgSoftDevProject\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\TrahTour\Desktop\VIsual Studio Workspace TOUR\OrgSoftDevProject\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\TrahTour\Desktop\VIsual Studio Workspace TOUR\OrgSoftDevProject\UnitTests\obj\Debug\UnitTests.pdb
