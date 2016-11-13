@@ -78,7 +78,7 @@
             // 
             this.msgLabel.AutoSize = true;
             this.msgLabel.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.msgLabel.Location = new System.Drawing.Point(231, 527);
+            this.msgLabel.Location = new System.Drawing.Point(253, 527);
             this.msgLabel.Name = "msgLabel";
             this.msgLabel.Size = new System.Drawing.Size(7, 13);
             this.msgLabel.TabIndex = 4;

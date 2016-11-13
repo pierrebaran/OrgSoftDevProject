@@ -12,7 +12,7 @@ using System.Windows.Forms;
 
 namespace EdgeAplication
 {
-    public class Business
+    public class Business : BusinessInterface
     {
         public Bitmap loadImg() {
 
