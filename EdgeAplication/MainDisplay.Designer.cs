@@ -96,6 +96,7 @@
             this.Controls.Add(this.loadImgButton);
             this.Name = "MainPanel";
             this.Text = "Edge Applier";
+            this.Load += new System.EventHandler(this.MainPanel_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

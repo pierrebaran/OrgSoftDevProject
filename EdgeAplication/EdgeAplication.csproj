@@ -62,6 +62,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Business.cs" />
+    <Compile Include="BusinessInterface.cs" />
+    <Compile Include="ImageHandler.cs" />
+    <Compile Include="ImageHandlerInterface.cs" />
     <Compile Include="MainDisplay.cs">
       <SubType>Form</SubType>
     </Compile>
