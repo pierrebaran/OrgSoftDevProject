@@ -7,3 +7,12 @@ C:\Users\TrahTour\Desktop\VIsual Studio Workspace TOUR\OrgSoftDevProject\EdgeApl
 C:\Users\TrahTour\Desktop\VIsual Studio Workspace TOUR\OrgSoftDevProject\EdgeAplication\obj\Debug\EdgeAplication.csproj.GenerateResource.Cache
 C:\Users\TrahTour\Desktop\VIsual Studio Workspace TOUR\OrgSoftDevProject\EdgeAplication\obj\Debug\EdgeAplication.exe
 C:\Users\TrahTour\Desktop\VIsual Studio Workspace TOUR\OrgSoftDevProject\EdgeAplication\obj\Debug\EdgeAplication.pdb
+C:\Users\Trah\Dropbox\Trah\VisualStudioWorkspace\OrgSoftDevProject\EdgeAplication\bin\Debug\EdgeAplication.exe.config
+C:\Users\Trah\Dropbox\Trah\VisualStudioWorkspace\OrgSoftDevProject\EdgeAplication\obj\Debug\EdgeAplication.exe
+C:\Users\Trah\Dropbox\Trah\VisualStudioWorkspace\OrgSoftDevProject\EdgeAplication\obj\Debug\EdgeAplication.pdb
+C:\Users\Trah\Dropbox\Trah\VisualStudioWorkspace\OrgSoftDevProject\EdgeAplication\bin\Debug\EdgeAplication.exe
+C:\Users\Trah\Dropbox\Trah\VisualStudioWorkspace\OrgSoftDevProject\EdgeAplication\bin\Debug\EdgeAplication.pdb
+C:\Users\Trah\Dropbox\Trah\VisualStudioWorkspace\OrgSoftDevProject\EdgeAplication\obj\Debug\EdgeAplication.csprojResolveAssemblyReference.cache
+C:\Users\Trah\Dropbox\Trah\VisualStudioWorkspace\OrgSoftDevProject\EdgeAplication\obj\Debug\EdgeAplication.MainPanel.resources
+C:\Users\Trah\Dropbox\Trah\VisualStudioWorkspace\OrgSoftDevProject\EdgeAplication\obj\Debug\EdgeAplication.Properties.Resources.resources
+C:\Users\Trah\Dropbox\Trah\VisualStudioWorkspace\OrgSoftDevProject\EdgeAplication\obj\Debug\EdgeAplication.csproj.GenerateResource.Cache

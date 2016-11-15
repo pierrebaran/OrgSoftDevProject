@@ -7,3 +7,14 @@ C:\Users\TrahTour\Desktop\VIsual Studio Workspace TOUR\OrgSoftDevProject\UnitTes
 C:\Users\TrahTour\Desktop\VIsual Studio Workspace TOUR\OrgSoftDevProject\UnitTests\obj\Debug\UnitTests.pdb
 C:\Users\TrahTour\Desktop\VIsual Studio Workspace TOUR\OrgSoftDevProject\UnitTests\bin\Debug\EdgeAplication.exe
 C:\Users\TrahTour\Desktop\VIsual Studio Workspace TOUR\OrgSoftDevProject\UnitTests\bin\Debug\EdgeAplication.pdb
+C:\Users\Trah\Dropbox\Trah\VisualStudioWorkspace\OrgSoftDevProject\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Trah\Dropbox\Trah\VisualStudioWorkspace\OrgSoftDevProject\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Trah\Dropbox\Trah\VisualStudioWorkspace\OrgSoftDevProject\UnitTests\bin\Debug\EdgeAplication.exe
+C:\Users\Trah\Dropbox\Trah\VisualStudioWorkspace\OrgSoftDevProject\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Trah\Dropbox\Trah\VisualStudioWorkspace\OrgSoftDevProject\UnitTests\bin\Debug\NSubstitute.dll
+C:\Users\Trah\Dropbox\Trah\VisualStudioWorkspace\OrgSoftDevProject\UnitTests\bin\Debug\EdgeAplication.pdb
+C:\Users\Trah\Dropbox\Trah\VisualStudioWorkspace\OrgSoftDevProject\UnitTests\bin\Debug\NSubstitute.xml
+C:\Users\Trah\Dropbox\Trah\VisualStudioWorkspace\OrgSoftDevProject\UnitTests\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Trah\Dropbox\Trah\VisualStudioWorkspace\OrgSoftDevProject\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Trah\Dropbox\Trah\VisualStudioWorkspace\OrgSoftDevProject\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Trah\Dropbox\Trah\VisualStudioWorkspace\OrgSoftDevProject\UnitTests\obj\Debug\UnitTests.pdb

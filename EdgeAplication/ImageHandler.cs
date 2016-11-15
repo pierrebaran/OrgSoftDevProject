@@ -54,19 +54,20 @@ namespace EdgeAplication
         public Bitmap loadImg()
         {
 
-            Bitmap selectedImg;
-
+            
+           
             OpenFileDialog ofd = new OpenFileDialog();
+
             ofd.Title = "Select an image file.";
             ofd.Filter = "Png Images(*.png)|*.png|Jpeg Images(*.jpg)|*.jpg";
             ofd.Filter += "|Bitmap Images(*.bmp)|*.bmp";
 
             if (ofd.ShowDialog() == System.Windows.Forms.DialogResult.OK)
             {
-                StreamReader streamReader = new StreamReader(ofd.FileName);
+                 StreamReader streamReader = new StreamReader(ofd.FileName);
 
                 //initialise original bitmap
-                selectedImg = (Bitmap)Bitmap.FromStream(streamReader.BaseStream);
+                Bitmap selectedImg = (Bitmap)Bitmap.FromStream(streamReader.BaseStream);
                 streamReader.Close();
 
                 return selectedImg;

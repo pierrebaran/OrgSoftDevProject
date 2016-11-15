@@ -10,6 +10,6 @@ namespace EdgeAplication
     public interface BusinessInterface
     {       
         Bitmap ApplyEdge(Bitmap sourceBitmap);
-        Bitmap ConvolutionFilter(Bitmap sourceBitmap, double[,] filterMatrix, double factor = 1, int bias = 0, bool grayscale = false);
+        Bitmap ConvolutionFilter(Bitmap sourceBitmap, double[,] filterMatrix);
     }
 }

@@ -4,6 +4,7 @@ using System.IO;
 using System.Drawing;
 using NSubstitute;
 using EdgeAplication;
+using System.Windows.Forms;
 
 namespace UnitTests
 {
@@ -11,7 +12,7 @@ namespace UnitTests
     public class MainTests
     {
         /*
-         * We'll first test our utilaries method used later in the tests to confirm they work correctly
+         * -- Testing the utilitaries --
          */
         [TestCategory("UtilitariesTest"), TestMethod()]
         public void testBmpEqualTrue()
@@ -39,20 +40,24 @@ namespace UnitTests
         }
 
         /*
-         * 
+         *  -- Tests of the image Handler --
+         *
+         * Testing a nominal case
          */
-        [TestCategory("ImageHandlerTest"), TestMethod()]
-        public void nominalImageLoading() {
-
-            var substituteHandler = Substitute.For<ImageHandlerInterface>();
+        [TestCategory("BusinessTest"), TestMethod()]
+        public void nominalApplyEdge() {
             Bitmap bmp = new Bitmap("..\\..\\Ressources\\Cobra.jpg");
+            BusinessInterface b = new Business();
            
+            Bitmap bmp2 = b.ApplyEdge(bmp);
+            Assert.IsFalse(Utilitaries.bmpEqual(bmp, bmp2));
+        }
 
-            Assert.IsTrue(Utilitaries.bmpEqual(bmp, bmp));
+      
 
 
 
-        } 
+
 
     }
 }
