@@ -5,3 +5,5 @@ C:\Users\TrahTour\Desktop\VIsual Studio Workspace TOUR\OrgSoftDevProject\UnitTes
 C:\Users\TrahTour\Desktop\VIsual Studio Workspace TOUR\OrgSoftDevProject\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
 C:\Users\TrahTour\Desktop\VIsual Studio Workspace TOUR\OrgSoftDevProject\UnitTests\obj\Debug\UnitTests.dll
 C:\Users\TrahTour\Desktop\VIsual Studio Workspace TOUR\OrgSoftDevProject\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\TrahTour\Desktop\VIsual Studio Workspace TOUR\OrgSoftDevProject\UnitTests\bin\Debug\EdgeAplication.exe
+C:\Users\TrahTour\Desktop\VIsual Studio Workspace TOUR\OrgSoftDevProject\UnitTests\bin\Debug\EdgeAplication.pdb
