@@ -13,6 +13,10 @@ namespace EdgeAplication
 {
     public class ImageHandler : ImageHandlerInterface
     {
+
+        /*
+         * This method opens a file dialog for the user to chose a destination folder and a name to save the given Bitmap into.
+         */ 
         public void saveImg(Bitmap finalBmp)
         {
 
@@ -44,6 +48,9 @@ namespace EdgeAplication
             }
 
         }
+        /*
+         * This method opens a filedialog for the user to put a bitmap into, then returns this img as a Bitmap object
+         */ 
         public Bitmap loadImg()
         {
 
@@ -68,6 +75,9 @@ namespace EdgeAplication
 
 
         }
+        /*
+         * This method is responsible to refresh the display on the main panel, it puts the given Bitmap after resizing it according to the given canvasWidthlength
+         */ 
         public Bitmap refreshDisplayedImg(Bitmap sourceBitmap, int canvasWidthLenght)
         {
             float ratio = 1.0f;

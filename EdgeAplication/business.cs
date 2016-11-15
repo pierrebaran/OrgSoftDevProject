@@ -14,6 +14,10 @@ namespace EdgeAplication
 {
     public class Business : BusinessInterface
     {
+
+        /* 
+         * This method takes a bitmap as a parameter and returns it modified with a standard Laplacian3x3 filter
+         */
         public Bitmap ApplyEdge(Bitmap sourceBitmap) {
              double[,] matrixLaplacian3x3 = new double[,]{ { -1, -1, -1,  },  { -1,  8, -1,  }, { -1, -1, -1, }, };
 
@@ -22,6 +26,10 @@ namespace EdgeAplication
 
             return resultBitmap;
         }
+
+        /*
+         * This method applies the filter given as a parameter to the given bitmap, then returns it
+         */
         public Bitmap ConvolutionFilter(Bitmap sourceBitmap, double[,] filterMatrix, double factor = 1, int bias = 0, bool grayscale = false)
         {
             BitmapData sourceData = sourceBitmap.LockBits(new Rectangle(0, 0,
